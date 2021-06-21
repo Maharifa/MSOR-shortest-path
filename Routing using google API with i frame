@@ -9,10 +9,10 @@ var shortestDistance = function() {
   // An array of nearby static abmulance service location 
        with a buffer of 3 km from the accident location.
   var Ambulance = [
-    {'title': 'Ambulance1', 'latLng': new google.maps.LatLng(51.530686, -0.154753)},
-    {'title': 'Ambulance2', 'latLng': new google.maps.LatLng(51.507293, -0.164022)},
-    {'title': 'Ambulance3', 'latLng': new google.maps.LatLng(51.504088, -0.141706)},
-    {'title': 'Ambulance4', 'latLng': new google.maps.LatLng(51.479185, -0.159903)}
+    {'title': 'Ambulance1', 'latLng': new google.maps.LatLng(81.530686, 13.154753)},
+    {'title': 'Ambulance2', 'latLng': new google.maps.LatLng(81.507293, 13.164022)},
+    {'title': 'Ambulance3', 'latLng': new google.maps.LatLng(81.504088, 13.141706)},
+    {'title': 'Ambulance4', 'latLng': new google.maps.LatLng(81.479185, 13.159903)}
   ];
 
   // An array to store results.
