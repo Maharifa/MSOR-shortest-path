@@ -105,7 +105,5 @@ var shortestDistance = function() {
   return {
     init: initialize
   };
-}();
-
-// Upon page load, lets start the process!
 google.maps.event.addDomListener(window, 'load', shortestDistance.init(lat, long));
+
