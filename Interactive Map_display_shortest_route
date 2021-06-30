@@ -1,0 +1,154 @@
+package com.source;
+import java.io.*;
+import java.net.*;
+import java.sql.*;
+import com.dao.DAOFactory;
+public class GoogleReader 
+{
+
+	/*public static void main(String[] args) 
+	{
+		// TODO Auto-generated method stub
+		URL u;
+		InputStream is = null;
+		DataInputStream dis;
+		String s;
+		try 
+		{
+			//String url =URLEncoder.encode(ul, "UTF-8");
+			//https://www.google.com/maps/dir/12.9156351,80.2301356/madurai/@11.4202806,77.9564481,8z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3b00c582b1189633:0xdc955b7264f63933!2m2!1d78.1197754!2d9.9252007!3e0
+			//https://www.google.com/maps/dir/12.9156351,80.2301356/Salem,+Tamil+Nadu/@12.2709024,78.5874111,9z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3babf1ccf52cba0b:0xee9989007068ca47!2m2!1d78.1460142!2d11.664325!3e0
+			u=new URL("https://www.google.com/maps/dir/12.9156351,80.2301356/madurai/@11.4202806,77.9564481,8z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3b00c582b1189633:0xdc955b7264f63933!2m2!1d78.1197754!2d9.9252007!3e0");
+			//u=new URL("https://www.google.com/maps/dir/12.9156351,80.2301356/Salem,+Tamil+Nadu/@12.2709024,78.5874111,9z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3babf1ccf52cba0b:0xee9989007068ca47!2m2!1d78.1460142!2d11.664325!3e0");
+			//u= new URL("https://www.google.com/maps/dir/12.9156351,80.2301356/MIOT+International,+4%2F112,+Mount+Poonamalle+High+Rd,+Sathya+Nagar,+Manapakkam,+Chennai,+Tamil+Nadu+600089/@12.9614081,80.1488147,12z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3a5260d2a1750661:0xe3a591bb494f9792!2m2!1d80.1855798!2d13.0215835!3e0");
+			is = u.openStream();         // throws an IOException
+			dis = new DataInputStream(new BufferedInputStream(is));
+			
+			while ((s = dis.readLine()) != null) 
+			{
+				if(s.contains("km"))
+				{
+					String ss[]=s.replaceAll("null", "").replaceAll("\\[", "").replaceAll("\\]", "").replaceAll("\\n", "").split(",");
+					for(String sss:ss)
+					{
+						if(sss.contains(" km"))
+						{
+							System.out.println(sss.replaceAll("\"", "").replaceAll("\\\\", ""));
+							break;
+						}
+					}
+					int i=1;
+					for(String sss:ss)
+					{
+						
+						if(sss.contains(" min"))
+						{
+							if(i==2)
+							{
+							System.out.println(sss.replaceAll("\"", "").replaceAll("\\\\n", "").replaceAll("\\\\", ""));
+							break;
+							}
+							i++;
+						}
+					}
+				}
+			}
+			
+		}
+		catch(Exception e)
+		{
+			System.out.println(e.getMessage());
+		}
+
+	}*/
+	
+	public static String KMs(double lat1,double lon1,double lat2, double lon2)
+	{
+		// TODO Auto-generated method stub
+				URL u;
+				String str="";
+				InputStream is = null;
+				DataInputStream dis;
+				String s;
+				try 
+				{
+					//String url =URLEncoder.encode(ul, "UTF-8");/@11.4202806,77.9564481
+					//https://www.google.com/maps/dir/12.9156351,80.2301356/madurai/@11.4202806,77.9564481,8z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3b00c582b1189633:0xdc955b7264f63933!2m2!1d78.1197754!2d9.9252007!3e0
+					//https://www.google.com/maps/dir/12.9156351,80.2301356/Salem,+Tamil+Nadu/@12.2709024,78.5874111,9z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3babf1ccf52cba0b:0xee9989007068ca47!2m2!1d78.1460142!2d11.664325!3e0
+					//u=new URL("https://www.google.com/maps/dir/"+lat1+","+lon1+"/"+lat2+","+lon2+",8z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3b00c582b1189633:0xdc955b7264f63933!2m2!1d78.1197754!2d9.9252007!3e0");
+					u=new URL("https://www.google.com/maps/dir/'"+lat1+","+lon1+"'/'"+lat2+","+lon2+"'/@13.1089086,80.1060275,14z/data=!3m1!4b1!4m10!4m9!1m3!2m2!1d80.1506203!2d13.107326!1m3!2m2!1d80.0970007!2d13.107326!3e0");
+					//u= new URL("https://www.google.com/maps/dir/12.9156351,80.2301356/MIOT+International,+4%2F112,+Mount+Poonamalle+High+Rd,+Sathya+Nagar,+Manapakkam,+Chennai,+Tamil+Nadu+600089/@12.9614081,80.1488147,12z/data=!3m1!4b1!4m10!4m9!1m1!4e1!1m5!1m1!1s0x3a5260d2a1750661:0xe3a591bb494f9792!2m2!1d80.1855798!2d13.0215835!3e0");
+					is = u.openStream();         // throws an IOException
+					dis = new DataInputStream(new BufferedInputStream(is));
+					System.out.println(u);
+					while ((s = dis.readLine()) != null) 
+					{
+						if(s.contains("km"))
+						{
+							String ss[]=s.replaceAll("null", "").replaceAll("\\[", "").replaceAll("\\]", "").replaceAll("\\n", "").split(",");
+							for(String sss:ss)
+							{
+								if(sss.contains(" km"))
+								{
+									str=sss.replaceAll("\"", "").replaceAll("\\\\", "");
+									System.out.println(sss.replaceAll("\"", "").replaceAll("\\\\", ""));
+									break;
+								}
+							}
+							int i=1;
+							for(String sss:ss)
+							{
+								
+								if(sss.contains(" min"))
+								{
+									if(i==2)
+									{
+									System.out.println(sss.replaceAll("\"", "").replaceAll("\\\\n", "").replaceAll("\\\\", ""));
+									str+="~"+sss.replaceAll("\"", "").replaceAll("\\\\n", "").replaceAll("\\\\", "");
+									break;
+									}
+									i++;
+								}
+							}
+						}
+					}
+					
+				}
+				catch(Exception e)
+				{
+					System.out.println(e.getMessage());
+				}
+				System.out.println(str);
+				return str;
+	}
+	public static void main(String args[])
+	{
+		String lat="13.107326";
+		String lng="80.2566447";
+		try
+		{
+			Connection con=DAOFactory.getConnection();
+			PreparedStatement ps=con.prepareStatement("select * from ambulance");
+			ResultSet rs=ps.executeQuery();
+			int i=2;
+			while(rs.next())
+			{
+				double lat1=Double.parseDouble(lat);
+				double lon1=Double.parseDouble(lng);
+				double lat2=Double.parseDouble(rs.getString("y"));
+				double lon2=Double.parseDouble(rs.getString("x"));
+				String name=rs.getString("name");
+				System.out.println(GoogleReader.KMs(lat1, lon1,lat2,lon2));
+				if(i==2)
+				{
+					break;
+				}
+				i++;
+			}
+		}
+		catch(Exception e)
+		{
+			System.out.println(e.getMessage());
+		}
+	}
+}
