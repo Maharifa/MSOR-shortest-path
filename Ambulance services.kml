@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="10VpbFzWt2Pe_NNE4XGoPypPrQo7WV4Sh">
+	<name>Ambulance services</name>
+	<description>Hospitals with ambulance services, private ambulance services, toll plaza with ambulance service are added</description>
+	<gx:CascadingStyle kml:id="__managed_style_233BD956C11C44F78A4E">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_12825263AE1C44F78A4E">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C509BD1411C44F78A4E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_12825263AE1C44F78A4E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_233BD956C11C44F78A4E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="05F32A7A6811770ED7E5">
+		<name>Best Ambulance Service Avadi (Freezer Box Service/24 Hours Ambulance Service)</name>
+		<gx:mid>/g/11g0mv7qrd</gx:mid>
+		<gx:fid>0x3a528956782858eb:0xe7cb88439ca282af</gx:fid>
+		<LookAt>
+			<longitude>80.0970007</longitude>
+			<latitude>13.107326</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.802261524156</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.0970007,13.107326,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0344BD8E2711770F2F0A">
+		<name>Apollo Speciality Hospitals</name>
+		<gx:mid>/g/11d_2hf949</gx:mid>
+		<gx:fid>0x3a52617b16c5b051:0xa67384e8a225f370</gx:fid>
+		<LookAt>
+			<longitude>80.1506203</longitude>
+			<latitude>13.0707104</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.972548358416</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1506203,13.0707104,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C53901A4311770F5E01">
+		<name>Aravind Eye Hospital - Chennai</name>
+		<gx:mid>/g/11b7y7rdq4</gx:mid>
+		<gx:fid>0x3a5261be3b75edd1:0xf16fd0da94a98583</gx:fid>
+		<LookAt>
+			<longitude>80.1247441</longitude>
+			<latitude>13.0532376</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.053645361986</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1247441,13.0532376,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BA54A5A1411770F9D11">
+		<name>INDIAN AMBULANCE SERVICE [AC AMBULANCE SERVICE/BODY FREEZER BOX/24HRS AMBULANCE SERVICE]</name>
+		<gx:mid>/g/11gy4zs0hn</gx:mid>
+		<gx:fid>0x3a5261aa6b08dd4d:0xd840b0fe25d0e435</gx:fid>
+		<LookAt>
+			<longitude>80.1434921</longitude>
+			<latitude>13.0367299</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.130166192299</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1434921,13.0367299,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0330291DF711770FC56A">
+		<name>Kanaga Hospital</name>
+		<gx:mid>/g/1hf6jqbbf</gx:mid>
+		<gx:fid>0x3a526040445e4213:0xea68a4c932218272</gx:fid>
+		<LookAt>
+			<longitude>80.12234269999999</longitude>
+			<latitude>13.0098614</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.254512923204</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.12234269999999,13.0098614,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C8083A17311770FF99C">
+		<name>MIOT International</name>
+		<gx:mid>/m/0hgns5g</gx:mid>
+		<gx:fid>0x3a5260d2a1750661:0xe3a591bb494f9792</gx:fid>
+		<LookAt>
+			<longitude>80.18557980000001</longitude>
+			<latitude>13.0215835</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.200293998014</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.18557980000001,13.0215835,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05E3EED2661177101299">
+		<name>TPS Ambulance service</name>
+		<gx:mid>/g/11b_2t6p17</gx:mid>
+		<gx:fid>0x3a5260ab4f9330f9:0xa9416b838d28c8fb</gx:fid>
+		<LookAt>
+			<longitude>80.18686699999999</longitude>
+			<latitude>12.992754</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.333555636674</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.18686699999999,12.992754,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04E79346E911771061FF">
+		<name>Apollo Spectra Hospitals</name>
+		<gx:mid>/g/12lknfxll</gx:mid>
+		<gx:fid>0x3a5267dc209067c3:0xa6af25e7e7df7898</gx:fid>
+		<LookAt>
+			<longitude>80.27110460000002</longitude>
+			<latitude>13.017774</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.217919509031</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.27110460000002,13.017774,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09C1A5A5551177107E4D">
+		<name>Billroth Hospital</name>
+		<gx:mid>/g/1tdgyqjh</gx:mid>
+		<gx:fid>0x3a5267c9b1028f3b:0x39258fb36963b831</gx:fid>
+		<LookAt>
+			<longitude>80.2566447</longitude>
+			<latitude>13.0273787</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.173471588045</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2566447,13.0273787,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="089EDFEF56117710975B">
+		<name>S.P AmbulanceService-Quick/Fast/Emergency/24/7 Ambulance Services</name>
+		<gx:mid>/g/11bwm4tqgb</gx:mid>
+		<gx:fid>0x3a5267b689601387:0x7082195163f6d2aa</gx:fid>
+		<LookAt>
+			<longitude>80.25136499999999</longitude>
+			<latitude>13.029075</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.165618266579</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.25136499999999,13.029075,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C8B453EA0117710B4D6">
+		<name>A.C. Ambulance Service</name>
+		<gx:mid>/g/1tg_k1r9</gx:mid>
+		<gx:fid>0x3a5266466c54bd07:0xd98f4eba5918af0b</gx:fid>
+		<LookAt>
+			<longitude>80.24439169999999</longitude>
+			<latitude>13.0335504</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.144893840609</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.24439169999999,13.0335504,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08CDD08BA6117710EAFB">
+		<name>Public Health Centre</name>
+		<gx:mid>/g/1tls1867</gx:mid>
+		<gx:fid>0x3a5266fd38ce17b1:0x7dec928cb712d4c2</gx:fid>
+		<LookAt>
+			<longitude>80.22165489999999</longitude>
+			<latitude>13.0359796</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.133641944765</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.22165489999999,13.0359796,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00FD66292311771166BA">
+		<name>Flyinng Squad Ambulance Service - Ambulance service</name>
+		<gx:mid>/g/1xn_lttl</gx:mid>
+		<gx:fid>0x3a52642b6355d069:0xe71be692f25c9107</gx:fid>
+		<LookAt>
+			<longitude>80.2296192</longitude>
+			<latitude>13.0863526</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.899858366965</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2296192,13.0863526,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E8AE5BF68117711B926">
+		<name>J. K &amp; CO FREEZER BOX and AMBULANCE SERVICE 24 HOURS</name>
+		<gx:mid>/g/1z3tb4j0r</gx:mid>
+		<gx:fid>0x3a525c58071ee1ff:0x734495606646b9</gx:fid>
+		<LookAt>
+			<longitude>80.231972</longitude>
+			<latitude>12.932204</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.612507659573</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.231972,12.932204,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01299DDFA7117711FE12">
+		<name>Medivic Air Ambulance Services in Chennai</name>
+		<gx:mid>/g/11byxffw0h</gx:mid>
+		<gx:fid>0x3a5266a7a5867693:0x7ad669a2845b878b</gx:fid>
+		<LookAt>
+			<longitude>80.2009678</longitude>
+			<latitude>13.0773882</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.941526659602</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2009678,13.0773882,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="000CB267421177124992">
+		<name>Flyinng Squad Ambulance Service-Dead Body Mortuary,Ac,24 Hour Emergency Ambulance in kolathur</name>
+		<gx:mid>/g/11h06_718n</gx:mid>
+		<gx:fid>0x3a5265301d7b03e1:0x36f244c0bb4aef09</gx:fid>
+		<LookAt>
+			<longitude>80.19967889999999</longitude>
+			<latitude>13.1218771</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.734460776354</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.19967889999999,13.1218771,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03712E9F501177128E05">
+		<name>M.J. Ambulance Service</name>
+		<gx:mid>/g/1yfdqx__2</gx:mid>
+		<gx:fid>0x3a525dcaccac4ad1:0x76baff29c6166001</gx:fid>
+		<LookAt>
+			<longitude>80.20804609999999</longitude>
+			<latitude>12.9431554</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.5621487115</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.20804609999999,12.9431554,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="048962D39A11771377AF">
+		<name>GVK EMRI</name>
+		<gx:mid>/g/11c1nx6qwf</gx:mid>
+		<gx:fid>0x3a5268a018265a19:0x7dc653de47974fa4</gx:fid>
+		<LookAt>
+			<longitude>80.2492647</longitude>
+			<latitude>13.0465128</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.084829279328</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2492647,13.0465128,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="090FEE716C117713B7EE">
+		<name>108 Ambulance Service</name>
+		<gx:mid>/g/11ggs8yryz</gx:mid>
+		<gx:fid>0x3a5267aa2700001d:0x74c2966a2996a2e9</gx:fid>
+		<LookAt>
+			<longitude>80.2340481</longitude>
+			<latitude>13.0296789</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.162822164687</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2340481,13.0296789,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C39F8BC251177147690">
+		<name>ITEL Toll Plaza</name>
+		<gx:mid>/g/11g6bqk7lg</gx:mid>
+		<gx:fid>0x3a525c777bcf005f:0xe63368e2fb5bb654</gx:fid>
+		<LookAt>
+			<longitude>80.2204878</longitude>
+			<latitude>12.901352</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.754154766679</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2204878,12.901352,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02F6E38F19117714C22F">
+		<name>Uthandi Toll Plaza</name>
+		<gx:mid>/g/1tlgwctk</gx:mid>
+		<gx:fid>0x3a525b04ddd80dc5:0xf0cbdb4854fff9d</gx:fid>
+		<LookAt>
+			<longitude>80.24193219999999</longitude>
+			<latitude>12.8616132</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.936118059146</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.24193219999999,12.8616132,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AB5450428117714F226">
+		<name>Vanagaram Toll Booth</name>
+		<gx:mid>/g/11b8t7hfjr</gx:mid>
+		<gx:fid>0x3a52610f5f03fbb7:0x700e3e2f6b5ebd6c</gx:fid>
+		<LookAt>
+			<longitude>80.14964239999999</longitude>
+			<latitude>13.043541</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.098604992214</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.14964239999999,13.043541,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="029872008311771525F4">
+		<name>OMR Toll Plaza</name>
+		<gx:mid>/g/1pxq4j5g6</gx:mid>
+		<gx:fid>0x3a525d013326da73:0x88da2e4c4d701140</gx:fid>
+		<LookAt>
+			<longitude>80.2358036</longitude>
+			<latitude>12.9498101</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.531527481322</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2358036,12.9498101,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D70A4F5521177154FC5">
+		<name>Perungudi Toll Plaza</name>
+		<gx:mid>/g/1vqmgstx</gx:mid>
+		<gx:fid>0x3a525d100310107b:0x1209a4eb0f0dffa9</gx:fid>
+		<LookAt>
+			<longitude>80.2434013</longitude>
+			<latitude>12.9564205</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.501094948404</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2434013,12.9564205,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08E6F1F3B41177158317">
+		<name>Surapattu Toll Plaza</name>
+		<gx:mid>/g/1pxq60_dl</gx:mid>
+		<gx:fid>0x3a5263656e67c823:0xe93ee98a73cc804f</gx:fid>
+		<LookAt>
+			<longitude>80.1817595</longitude>
+			<latitude>13.1365242</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.66613892847</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1817595,13.1365242,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0155872B6E117715AD0E">
+		<name>MEPZ TOLL PLAZA</name>
+		<gx:mid>/g/11g9myxppl</gx:mid>
+		<gx:fid>0x3a525f0bd4fbd17d:0xeafe55fd8411cfb7</gx:fid>
+		<LookAt>
+			<longitude>80.12590349999999</longitude>
+			<latitude>12.9370339</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.590302941582</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.12590349999999,12.9370339,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C4CAD4FCE117715D24D">
+		<name>ECR Toll Gate</name>
+		<gx:mid>/g/11c4524yb4</gx:mid>
+		<gx:fid>0x3a525c7fd0cb0655:0xadff9b54fb187e1a</gx:fid>
+		<LookAt>
+			<longitude>80.2316003</longitude>
+			<latitude>12.9007593</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.756872739359</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2316003,12.9007593,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C3979A7A211771601D1">
+		<name>Perumbakkam Toll Gate</name>
+		<gx:mid>/g/11c0pqv8w9</gx:mid>
+		<gx:fid>0x3a525c777bcedb9b:0x3609bbd7ec755677</gx:fid>
+		<LookAt>
+			<longitude>80.2204852</longitude>
+			<latitude>12.9013587</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.754124041475</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2204852,12.9013587,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05FDA60CD31177166018">
+		<name>Toll Gate - Navalur</name>
+		<gx:mid>/g/1pycfd9ff</gx:mid>
+		<gx:fid>0x3a525a599152a853:0x188cdf7c33ccec38</gx:fid>
+		<LookAt>
+			<longitude>80.22759809999999</longitude>
+			<latitude>12.8396776</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1027.036326986457</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.22759809999999,12.8396776,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ABD70F9E019FF3BB282">
+		<name>Alfaa Ambulance-Emergency Ambulance in Chennai</name>
+		<gx:mid>/g/11b77g86k4</gx:mid>
+		<gx:fid>0x3a5263f9510a7583:0xf72bab5e0990c85c</gx:fid>
+		<LookAt>
+			<longitude>80.230599</longitude>
+			<latitude>13.088109</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.891691024944</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.230599,13.088109,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="032BB3909219FF3C204C">
+		<name>24 Hours Ambulance Services in Chennai - Dr. Kumars Multi Speciality Hospital</name>
+		<gx:mid>/g/11jrsts6h7</gx:mid>
+		<gx:fid>0x3a525fe096a507a3:0x94f45e2879cb68c</gx:fid>
+		<LookAt>
+			<longitude>80.1367848</longitude>
+			<latitude>12.9515263</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.523628001364</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1367848,12.9515263,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="070E23489E19FF3C8862">
+		<name>Alfa Ambulance Service-24Hours Ambulance Services</name>
+		<gx:mid>/g/1tgplg5v</gx:mid>
+		<gx:fid>0x3a526679b6f8ffcf:0xd271195c5b78dcc8</gx:fid>
+		<LookAt>
+			<longitude>80.21379280000001</longitude>
+			<latitude>13.1302777</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.695284972909</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.21379280000001,13.1302777,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EC2DA0ABB19FF3D05D2">
+		<name>Ambulance Services in Chennai</name>
+		<gx:mid>/g/11b6dnqb05</gx:mid>
+		<gx:fid>0x3a526681c6884823:0xe9cf109638afea25</gx:fid>
+		<LookAt>
+			<longitude>80.228466</longitude>
+			<latitude>13.079427</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.932052353469</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.228466,13.079427,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C5EC5603419FF3D815E">
+		<name>CHENNAI AMBULANCE SERVICE</name>
+		<gx:mid>/g/1tcv4r9y</gx:mid>
+		<gx:fid>0x3a526675ca39801b:0x31141bdef1b3b2a8</gx:fid>
+		<LookAt>
+			<longitude>80.24989599999999</longitude>
+			<latitude>13.080541</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.926874987922</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.24989599999999,13.080541,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0380FCB43B19FF3DDEFC">
+		<name>Air Ambulance Services</name>
+		<gx:mid>/g/11f75zjlq8</gx:mid>
+		<gx:fid>0x3a526783761beca5:0x1d5d58684aafe36</gx:fid>
+		<LookAt>
+			<longitude>80.2118555</longitude>
+			<latitude>13.0548426</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.046200425815</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2118555,13.0548426,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03FD8848D219FF3E4904">
+		<name>Sims Ambulance Service</name>
+		<gx:mid>/g/11fslrxsc5</gx:mid>
+		<gx:fid>0x3a5266eaeb6d3783:0x649a0f824cb6a107</gx:fid>
+		<LookAt>
+			<longitude>80.21134099999999</longitude>
+			<latitude>13.055421</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.043517247647</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.21134099999999,13.055421,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E1C9C056119FF3EEA76">
+		<name>Flyinng Squad Ambulance Service -Emergency Ambulance Service|VIP Ambulance Service|Ambulance Service</name>
+		<gx:mid>/g/11fkqgwrg1</gx:mid>
+		<gx:fid>0x3a52630fbf5d3691:0x64a3d958c0bc312</gx:fid>
+		<LookAt>
+			<longitude>80.1754404</longitude>
+			<latitude>13.0901447</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.882223592666</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1754404,13.0901447,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BD6D30C4119FF3F82CD">
+		<name>Barath &amp; co-freezer box service 24/7</name>
+		<gx:mid>/g/11ppc9svqs</gx:mid>
+		<gx:fid>0x3a526790ab3ddb7d:0x9b673d831bd63217</gx:fid>
+		<LookAt>
+			<longitude>80.20314329999999</longitude>
+			<latitude>13.044507</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.094127455153</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.20314329999999,13.044507,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C9FFD06C819FF400D8C">
+		<name>Kasthuri Ambulance Service in Maduravoyal, Chennai</name>
+		<gx:mid>/g/11fl0xsnwy</gx:mid>
+		<gx:fid>0x3a526161f1797507:0x94a5fb48ddf8a3b7</gx:fid>
+		<LookAt>
+			<longitude>80.1747173</longitude>
+			<latitude>13.0668047</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.990685141044</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1747173,13.0668047,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A99131C8219FF406864">
+		<name>Train and Air Ambulance Service in Chennai</name>
+		<gx:mid>/g/11cnrc3cpf</gx:mid>
+		<gx:fid>0x3a5265e6a0244fb7:0xecc16391f602e1a5</gx:fid>
+		<LookAt>
+			<longitude>80.2598716</longitude>
+			<latitude>13.0888318</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.888329661939</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2598716,13.0888318,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08F83A43D519FF40B785">
+		<name>Panchmukhi Air Ambulance Services In Chennai</name>
+		<gx:mid>/g/11g6btj9cf</gx:mid>
+		<gx:fid>0x3a5265e73dc60749:0xc8bb615957d7682f</gx:fid>
+		<LookAt>
+			<longitude>80.2562428</longitude>
+			<latitude>13.0885909</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.889449981293</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2562428,13.0885909,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DFF242F1B19FF4115CD">
+		<name>Kishore Freezer Box Ambulance Service In Chennai</name>
+		<gx:mid>/g/11gnp9k6rm</gx:mid>
+		<gx:fid>0x3a5267991a7e0ad9:0x16b261bc83187493</gx:fid>
+		<LookAt>
+			<longitude>80.27185559999999</longitude>
+			<latitude>13.0700859</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.975448684116</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.27185559999999,13.0700859,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02C975CE2E19FF415CFE">
+		<name>CHENNAI AC AMBULANCE SERVICE</name>
+		<gx:mid>/g/1q69xq1l5</gx:mid>
+		<gx:fid>0x3a526772b42fee43:0xb55e40815d2d9251</gx:fid>
+		<LookAt>
+			<longitude>80.2221515</longitude>
+			<latitude>13.0116528</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.246230126025</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2221515,13.0116528,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05D5C7AFBE19FF41F666">
+		<name>Kasthuri Ambulance Service in Chennai</name>
+		<gx:mid>/g/11h6v0l31d</gx:mid>
+		<gx:fid>0x3a525f21a9a3236d:0x9d5838955ec1a26a</gx:fid>
+		<LookAt>
+			<longitude>80.1490885</longitude>
+			<latitude>12.9672099</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.45139097858</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1490885,12.9672099,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A75056C9F19FF424414">
+		<name>Mani Ambulance Service</name>
+		<gx:mid>/g/1tff60sn</gx:mid>
+		<gx:fid>0x3a5266e02b5f56a3:0xe9db26874be61292</gx:fid>
+		<LookAt>
+			<longitude>80.2125329</longitude>
+			<latitude>13.0346705</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.139705863661</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2125329,13.0346705,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="054DE96DA419FF4295B4">
+		<name>Anna Nagar Ambulance Service</name>
+		<gx:mid>/g/11b7lflh5m</gx:mid>
+		<gx:fid>0x3a52642281c29d89:0x14cbd05736a07c84</gx:fid>
+		<LookAt>
+			<longitude>80.2101567</longitude>
+			<latitude>13.0867553</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.897985887237</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2101567,13.0867553,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="043E3DB22619FF4391DC">
+		<name>Indian Ambulance Service</name>
+		<gx:mid>/g/11fzyd4289</gx:mid>
+		<gx:fid>0x3a5265fdfba0128f:0x597b72271d9dd15</gx:fid>
+		<LookAt>
+			<longitude>80.2707185</longitude>
+			<latitude>13.0826802</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>45287.24835482796</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2707185,13.0826802,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D0D3BC91919FF44128C">
+		<name>Train Rail Ambulance Services in Chennai</name>
+		<gx:mid>/g/11c2n_3qb5</gx:mid>
+		<gx:fid>0x3a52666b9e2b443d:0x76ed21163495ad53</gx:fid>
+		<LookAt>
+			<longitude>80.2516294</longitude>
+			<latitude>13.0630948</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.007907816545</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2516294,13.0630948,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09FD1ECC7E19FF44604A">
+		<name>Ambulance Service</name>
+		<gx:mid>/g/11c7pc8tm2</gx:mid>
+		<gx:fid>0x3a52675eed0477d7:0xd6d1e8c322d53fae</gx:fid>
+		<LookAt>
+			<longitude>80.20621709999999</longitude>
+			<latitude>12.9927095</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.333761111849</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.20621709999999,12.9927095,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08E8E5D6E119FF44A312">
+		<name>MARIYA &amp; CO 24HRS FREEZERBOX SERVICE/DEAD BODY FREEZER BOX/VILLIVAKKAM/PERAMBUR/TEACHERS COLONY</name>
+		<gx:mid>/g/11f79l3cng</gx:mid>
+		<gx:fid>0x3a526553170e00cf:0x6a304651fd54bd1c</gx:fid>
+		<LookAt>
+			<longitude>80.208444</longitude>
+			<latitude>13.118698</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.749280008312</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.208444,13.118698,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05B92A91AB19FF44EB0D">
+		<name>AA AMBULANCE SERVICE CHENNAI</name>
+		<gx:mid>/g/11bbrfzdv6</gx:mid>
+		<gx:fid>0x3a52642944e8f64b:0xbaf7ebedd97f000a</gx:fid>
+		<LookAt>
+			<longitude>80.225759</longitude>
+			<latitude>13.0852</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.905217432151</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.225759,13.0852,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F4C54E6EC19FF453640">
+		<name>No-1 Ambulance Service - Ambulance Service in Chennai &amp; Vyasarpadi</name>
+		<gx:mid>/g/11c3tjz079</gx:mid>
+		<gx:fid>0x3a52659679c017f1:0x6994554ecb97e634</gx:fid>
+		<LookAt>
+			<longitude>80.2566075</longitude>
+			<latitude>13.110368</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.788093387609</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2566075,13.110368,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C7D25E4EA19FF458000">
+		<name>RG Ambulance Services Villivakkam (Funeral Service/ Freezer Box Service)</name>
+		<gx:mid>/g/11g7z8h8ct</gx:mid>
+		<gx:fid>0x3a52643f3e2ac29d:0x3e06f2958a18585</gx:fid>
+		<LookAt>
+			<longitude>80.213053</longitude>
+			<latitude>13.1020179</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.826976389327</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.213053,13.1020179,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F02879B9919FF45C2C6">
+		<name>A squad ambulance service freezer box</name>
+		<gx:mid>/g/11nstrvy4w</gx:mid>
+		<gx:fid>0x3a526559528cf4a3:0xc4437bb1affe4f29</gx:fid>
+		<LookAt>
+			<longitude>80.221058</longitude>
+			<latitude>13.096098</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.85452836597</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.221058,13.096098,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0624460C3119FF4609B7">
+		<name>➕Jothi Ambulance service ➕</name>
+		<gx:mid>/g/11h1q56hzc</gx:mid>
+		<gx:fid>0x3a5267c77822bcf9:0x971f625e03d821ed</gx:fid>
+		<LookAt>
+			<longitude>80.24617719999999</longitude>
+			<latitude>13.0416082</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.107562807242</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.24617719999999,13.0416082,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08A1B10F0319FF46532E">
+		<name>RK AMBULANCE SERVICE</name>
+		<gx:mid>/g/1jkwmhqk1</gx:mid>
+		<gx:fid>0x3a5267014c5c30f9:0x6db1f4d433a91cd6</gx:fid>
+		<LookAt>
+			<longitude>80.22749829999999</longitude>
+			<latitude>13.0294481</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.163890800711</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.22749829999999,13.0294481,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0234951E0619FF469E2E">
+		<name>Ambulance service in chennai airport &amp; dead body transport in chennai</name>
+		<gx:mid>/g/11h6s24n71</gx:mid>
+		<gx:fid>0x3a5261c7e00f662d:0x6de34d9d96a652fc</gx:fid>
+		<LookAt>
+			<longitude>80.1704689</longitude>
+			<latitude>12.9944773</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.325597911291</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1704689,12.9944773,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B99A946C119FF46FE88">
+		<name>Pavithra Ambulance Service</name>
+		<gx:mid>/g/11hcnwr5l4</gx:mid>
+		<gx:fid>0x3a52670c7d1d88f7:0x6ef05b04fa232fdb</gx:fid>
+		<LookAt>
+			<longitude>80.22605469999999</longitude>
+			<latitude>13.0151733</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.229949355833</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.22605469999999,13.0151733,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0150B775B919FF47394D">
+		<name>JT Ambulance Service</name>
+		<gx:mid>/g/1thxp1rw</gx:mid>
+		<gx:fid>0x3a52663c635c0ab1:0xc10f6cecbc9969bf</gx:fid>
+		<LookAt>
+			<longitude>80.261882</longitude>
+			<latitude>13.053905</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.050549675358</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.261882,13.053905,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FA8BB926C19FF477413">
+		<name>ELAVARASAN AMBULANCE SERVICE CHENNAI- Freezer Box Service- Embalming Service in Chennai- Funeral Service</name>
+		<gx:mid>/g/11g_l3ybq</gx:mid>
+		<gx:fid>0x3a525e515fea1cd7:0x2bc2ebcfbc30e7ad</gx:fid>
+		<LookAt>
+			<longitude>80.1451278</longitude>
+			<latitude>12.9554168</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.50571668972</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1451278,12.9554168,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="053B84F52719FF47B663">
+		<name>Vinayaka Ambulance &amp; Funeral Service</name>
+		<gx:mid>/g/1vvywhlz</gx:mid>
+		<gx:fid>0x3a5264068f62b9a1:0x82147ce7af7ee02f</gx:fid>
+		<LookAt>
+			<longitude>80.19225489999999</longitude>
+			<latitude>13.0871628</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.89609103143</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.19225489999999,13.0871628,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F8018F21E19FF483361">
+		<name>Life Line Ambulance service</name>
+		<gx:mid>/g/11fnylzp7n</gx:mid>
+		<gx:fid>0x3a5261f19ac32703:0x7a9b2d41978b495d</gx:fid>
+		<LookAt>
+			<longitude>80.1867113</longitude>
+			<latitude>13.055495</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.0431739558</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C509BD1411C44F78A4E</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1867113,13.055495,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,1982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1MODBxxioEre8LtmXDOuAnGvjoR-F_EpL">
+	<name>hospitals in chennai</name>
+	<description>Added few hospital position , with 24 hours service</description>
+	<gx:CascadingStyle kml:id="__managed_style_0BC0D0FAA81C44F9ED26">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1D49F7354E1C44F9ED20">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F6A7DBA471C44F9ED20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1D49F7354E1C44F9ED20</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0BC0D0FAA81C44F9ED26</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0C7A3C7F0F113F1A2D7A">
+		<name>Chennai</name>
+		<gx:mid>/m/0c8tk</gx:mid>
+		<gx:fid>0x3a5265ea4f7d3361:0x6e61a70b6863d433</gx:fid>
+		<LookAt>
+			<longitude>80.20901174999999</longitude>
+			<latitude>13.04752545</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>90587.39429772076</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.27071840000001,13.0826802,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A89D3EF7C113F1C4A99">
+		<name>K.M.Hospitals</name>
+		<gx:mid>/g/1tfrks14</gx:mid>
+		<gx:fid>0x3a5265d98d386cf7:0x918ea511e6c15a17</gx:fid>
+		<LookAt>
+			<longitude>80.24204399999999</longitude>
+			<latitude>13.0884401</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.890151275202</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.24204399999999,13.0884401,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01B2B99839113F1CA743">
+		<name>WCF Hospitals</name>
+		<gx:mid>/g/1jkz4gh3w</gx:mid>
+		<gx:fid>0x3a52665f2e529aa7:0xa5b9db611b2a9f8c</gx:fid>
+		<LookAt>
+			<longitude>80.2329412</longitude>
+			<latitude>13.0484406</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.075891374736</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2329412,13.0484406,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="051599553E113F1CE1EA">
+		<name>Aysha Hospital</name>
+		<gx:mid>/g/1tff1g94</gx:mid>
+		<gx:fid>0x3a5265dee12795cd:0x772784083b37a7d3</gx:fid>
+		<LookAt>
+			<longitude>80.24992379999999</longitude>
+			<latitude>13.0846297</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.907868897904</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.24992379999999,13.0846297,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="036D541AB7113F1CF9A8">
+		<name>Mercury Hospital</name>
+		<gx:mid>/g/1vvdsmxh</gx:mid>
+		<gx:fid>0x3a52660ef39b8afb:0x33c627e14a62cf50</gx:fid>
+		<LookAt>
+			<longitude>80.2600535</longitude>
+			<latitude>13.0718207</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.967391530173</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2600535,13.0718207,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00B5585925113F1D14EF">
+		<name>Dr. Mehta&apos;s Hospitals</name>
+		<gx:mid>/g/1tgnkhps</gx:mid>
+		<gx:fid>0x3a5265e51a427cad:0x3c7ce71e604b9f23</gx:fid>
+		<LookAt>
+			<longitude>80.240477</longitude>
+			<latitude>13.071801</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.967483031239</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.240477,13.071801,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05C801A3FD113F1D3577">
+		<name>LIMA MULTISPECIALITY HOSPITAL</name>
+		<gx:mid>/g/1hm1y1h9f</gx:mid>
+		<gx:fid>0x3a52667fb51df4c1:0xda54eb8cae181334</gx:fid>
+		<LookAt>
+			<longitude>80.23363999999999</longitude>
+			<latitude>13.07816</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.937940272812</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.23363999999999,13.07816,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="044C1127A41171F7482B">
+		<name>Tamil Nadu Government Multi Super Speciality Hospital</name>
+		<gx:mid>/m/0bby_lq</gx:mid>
+		<gx:fid>0x3a52661cdfe287e3:0x91c026621c68ec07</gx:fid>
+		<LookAt>
+			<longitude>80.2745838</longitude>
+			<latitude>13.0701638</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.975086905441</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2745838,13.0701638,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="059C5A82791171F782BD">
+		<name>Apollo Children&apos;s Hospital</name>
+		<gx:mid>/g/1hhgmv430</gx:mid>
+		<gx:fid>0x3a52666af2b06a59:0xb04fb634ecb4c097</gx:fid>
+		<LookAt>
+			<longitude>80.2523041</longitude>
+			<latitude>13.0601534</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.021559464811</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2523041,13.0601534,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A1575FCEF1171F7B668">
+		<name>Joseph Hospitals</name>
+		<gx:mid>/g/1tdgn7t2</gx:mid>
+		<gx:fid>0x3a52667a4aecf10d:0x1701b9f45320d421</gx:fid>
+		<LookAt>
+			<longitude>80.23565929999999</longitude>
+			<latitude>13.0740281</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.957137917568</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.23565929999999,13.0740281,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DCEE9B0191171F7D755">
+		<name>Noble Hospital</name>
+		<gx:mid>/g/1tdmt14_</gx:mid>
+		<gx:fid>0x3a5265dff238aa47:0xcd5ea2a1d1ec7b4f</gx:fid>
+		<LookAt>
+			<longitude>80.2532396</longitude>
+			<latitude>13.0821506</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.919393542294</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2532396,13.0821506,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08ED561FF81171F7F865">
+		<name>B.R.S Hospital</name>
+		<gx:mid>/g/1td7xhtm</gx:mid>
+		<gx:fid>0x3a5266448f9aaedd:0x2d8a96e345997a19</gx:fid>
+		<LookAt>
+			<longitude>80.2454434</longitude>
+			<latitude>13.0519656</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.059545016152</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2454434,13.0519656,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="087A6E9BCF1171F841EF">
+		<name>The Guest Hospital</name>
+		<gx:mid>/g/1tf2qnjf</gx:mid>
+		<gx:fid>0x3a5266793dd63aad:0x8d5820048a87c7ff</gx:fid>
+		<LookAt>
+			<longitude>80.2387205</longitude>
+			<latitude>13.0771654</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.942561924515</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2387205,13.0771654,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03071BDB591171F86333">
+		<name>Billroth Hospital</name>
+		<gx:mid>/g/1v44cd1v</gx:mid>
+		<gx:fid>0x3a52668144e6ce37:0x2356bed53ca2d8d4</gx:fid>
+		<LookAt>
+			<longitude>80.2273271</longitude>
+			<latitude>13.0757291</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.949235440503</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2273271,13.0757291,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BCD7815AC1171F896FF">
+		<name>Government Kasturba Gandhi Hospital for Women and Children</name>
+		<gx:mid>/g/1tcx5fmj</gx:mid>
+		<gx:fid>0x3a5268a1c990320b:0x75e767814f97cb8b</gx:fid>
+		<LookAt>
+			<longitude>80.2782201</longitude>
+			<latitude>13.0595045</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.024570742342</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2782201,13.0595045,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09A04604881171F8B2A6">
+		<name>Santosham Chest Hospital</name>
+		<gx:mid>/g/1tvdh6k8</gx:mid>
+		<gx:fid>0x3a52660c961e6535:0x67c3ae9b5c5c5d97</gx:fid>
+		<LookAt>
+			<longitude>80.253738</longitude>
+			<latitude>13.074634</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.954323152102</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.253738,13.074634,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B77D55A5D1171F8CEE5">
+		<name>The Crescent Hospital</name>
+		<gx:mid>/g/1tfrqbp_</gx:mid>
+		<gx:fid>0x3a52663c98e85407:0xa056943a2d38095e</gx:fid>
+		<LookAt>
+			<longitude>80.27277719999999</longitude>
+			<latitude>13.0528881</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.055266431108</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.27277719999999,13.0528881,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00D0A9F3531171F8F70C">
+		<name>Rajiv Gandhi Government General Hospital</name>
+		<gx:mid>/m/0d2qgd</gx:mid>
+		<gx:fid>0x3a5266a6fb222c35:0xcb1aaa6e58460fe4</gx:fid>
+		<LookAt>
+			<longitude>80.2766453</longitude>
+			<latitude>13.0812682</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.923495061849</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2766453,13.0812682,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0787FDC3CE1171F91638">
+		<name>Amma Hospital</name>
+		<gx:mid>/g/1w6r6q0k</gx:mid>
+		<gx:fid>0x3a52668a3cc118c5:0x120549ec8cc0d930</gx:fid>
+		<LookAt>
+			<longitude>80.23064909999999</longitude>
+			<latitude>13.0625603</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.010388764106</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.23064909999999,13.0625603,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="034EEC125A1171F9456E">
+		<name>Apollo Speciality Hospital - C Block</name>
+		<gx:mid>/g/11cn9dg6tt</gx:mid>
+		<gx:fid>0x3a5267b2e1506c55:0x7f974f87e29745bd</gx:fid>
+		<LookAt>
+			<longitude>80.2457392</longitude>
+			<latitude>13.0338996</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.143276494394</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2457392,13.0338996,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07309179801171F95FD3">
+		<name>C.S.I. Kalyani Multispeciality Hospital</name>
+		<gx:mid>/g/1tfk2vyl</gx:mid>
+		<gx:fid>0x3a52662942ee2ffb:0x85868f6b2e4f750f</gx:fid>
+		<LookAt>
+			<longitude>80.2726562</longitude>
+			<latitude>13.043507</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.098762580817</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2726562,13.043507,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01BD85B9D11171F9806E">
+		<name>Public Health Centre</name>
+		<gx:mid>/g/1tls1867</gx:mid>
+		<gx:fid>0x3a5266fd38ce17b1:0x7dec928cb712d4c2</gx:fid>
+		<LookAt>
+			<longitude>80.22165489999999</longitude>
+			<latitude>13.0359796</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.133641944765</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.22165489999999,13.0359796,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="013616E9091171F99FBC">
+		<name>Southern Railway Headquarters Hospital</name>
+		<gx:mid>/m/0107_vwm</gx:mid>
+		<gx:fid>0x3a5265cac5707acb:0x57d202d07c6898d4</gx:fid>
+		<LookAt>
+			<longitude>80.23308689999999</longitude>
+			<latitude>13.1014423</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.829655836655</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.23308689999999,13.1014423,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="020EA2CB1B1171F9BE77">
+		<name>Sooriya Hospital</name>
+		<gx:mid>/g/1tdckd1q</gx:mid>
+		<gx:fid>0x3a52670db7f07bf7:0x34730edd9001c051</gx:fid>
+		<LookAt>
+			<longitude>80.2034821</longitude>
+			<latitude>13.048184</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.077081129392</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2034821,13.048184,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0259CAC6E71171F9DE78">
+		<name>Venkataeswara Hospitals</name>
+		<gx:mid>/g/1tdf9jp0</gx:mid>
+		<gx:fid>0x3a5267b1f0f26955:0xdaf15505e8cf3a8e</gx:fid>
+		<LookAt>
+			<longitude>80.24408830000002</longitude>
+			<latitude>13.0294521</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.163872280312</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.24408830000002,13.0294521,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0283D526411171FA1B2F">
+		<name>SRM hospital</name>
+		<gx:mid>/g/11gdgw_6kx</gx:mid>
+		<gx:fid>0x3a52646fc2b97b07:0x36c2eff9c6ad2df9</gx:fid>
+		<LookAt>
+			<longitude>80.1994129</longitude>
+			<latitude>13.1121116</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.779971118465</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1994129,13.1121116,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0838209B9D1171FA4B49">
+		<name>Government Hospital</name>
+		<gx:mid>/g/1tnpcvxz</gx:mid>
+		<gx:fid>0x3a52670efe647175:0x405b43394ff33d08</gx:fid>
+		<LookAt>
+			<longitude>80.2239403</longitude>
+			<latitude>13.0203999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.205770726999</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2239403,13.0203999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="096ED2D6B81171FA6724">
+		<name>FORTIS MALAR HOSPITAL CHENNAI</name>
+		<gx:mid>/m/09gqgz9</gx:mid>
+		<gx:fid>0x3a5267ebca1ef1c9:0x65f09e8a6db91462</gx:fid>
+		<LookAt>
+			<longitude>80.2587788</longitude>
+			<latitude>13.0100702</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.25354756324</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2587788,13.0100702,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05E8884FEA1171FA8716">
+		<name>Multi Speciality Hospital</name>
+		<gx:mid>/g/1q64hqs7j</gx:mid>
+		<gx:fid>0x3a526f706650765f:0x7a5e009b31528710</gx:fid>
+		<LookAt>
+			<longitude>80.2890556</longitude>
+			<latitude>13.1193097</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.746428867187</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2890556,13.1193097,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C5B11CB771171FAAF0B">
+		<name>Apollo Speciality Hospitals</name>
+		<gx:mid>/g/11d_2hf949</gx:mid>
+		<gx:fid>0x3a52617b16c5b051:0xa67384e8a225f370</gx:fid>
+		<LookAt>
+			<longitude>80.1506203</longitude>
+			<latitude>13.0707104</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.972548358416</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1506203,13.0707104,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0427E70E271171FADA45">
+		<name>MIOT International</name>
+		<gx:mid>/m/0hgns5g</gx:mid>
+		<gx:fid>0x3a5260d2a1750661:0xe3a591bb494f9792</gx:fid>
+		<LookAt>
+			<longitude>80.18557980000001</longitude>
+			<latitude>13.0215835</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.200293998014</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.18557980000001,13.0215835,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E1A9FF0EB1171FB2C30">
+		<name>C.S.I. Kalyani Multispeciality Hospital</name>
+		<gx:mid>/g/1tfk2vyl</gx:mid>
+		<gx:fid>0x3a52662942ee2ffb:0x85868f6b2e4f750f</gx:fid>
+		<LookAt>
+			<longitude>80.2726562</longitude>
+			<latitude>13.043507</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.098762580817</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2726562,13.043507,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09AA89A1D91171FC24FD">
+		<name>Deepam Hospitals: ICU | Surgery | Gynaecology | Ortho in Tambaram</name>
+		<gx:mid>/g/11c1p63f7d</gx:mid>
+		<gx:fid>0x3a525f637f9b6b91:0x4663ef08cf25d969</gx:fid>
+		<LookAt>
+			<longitude>80.11755079999999</longitude>
+			<latitude>12.9293907</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.625437656395</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.11755079999999,12.9293907,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C248AB38A1171FC8D90">
+		<name>Apollo Children&apos;s Hospital</name>
+		<gx:mid>/g/1hhgmv430</gx:mid>
+		<gx:fid>0x3a52666af2b06a59:0xb04fb634ecb4c097</gx:fid>
+		<LookAt>
+			<longitude>80.2523041</longitude>
+			<latitude>13.0601534</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.021559464811</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2523041,13.0601534,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="005C8D24611171FCCEB0">
+		<name>Billroth Hospital</name>
+		<gx:mid>/g/1v44cd1v</gx:mid>
+		<gx:fid>0x3a52668144e6ce37:0x2356bed53ca2d8d4</gx:fid>
+		<LookAt>
+			<longitude>80.2273271</longitude>
+			<latitude>13.0757291</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.949235440503</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2273271,13.0757291,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0925995C1B1171FD2DB8">
+		<name>Arokya Hospital</name>
+		<gx:mid>/g/1tv22l2t</gx:mid>
+		<gx:fid>0x3a5262376d0cf4ef:0xded7b853ef9dc251</gx:fid>
+		<LookAt>
+			<longitude>80.1909826</longitude>
+			<latitude>13.0373873</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.127120637802</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1909826,13.0373873,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0401B389D01171FD45C5">
+		<name>ESI Hospital</name>
+		<gx:mid>/g/1v3lncj7</gx:mid>
+		<gx:fid>0x3a5266df94a1cb05:0x47f3c59ca5d0ae4</gx:fid>
+		<LookAt>
+			<longitude>80.2075201</longitude>
+			<latitude>13.0348333</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.138951785424</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2075201,13.0348333,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08F064D9AF1171FD6614">
+		<name>ANN Hospital</name>
+		<gx:mid>/g/11xc65gzx</gx:mid>
+		<gx:fid>0x3a52612f10a4920d:0xbabe5d71b9df8464</gx:fid>
+		<LookAt>
+			<longitude>80.17840369999999</longitude>
+			<latitude>13.0406203</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.112140861228</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.17840369999999,13.0406203,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04DB3F91781171FD8917">
+		<name>Kedar Hospital</name>
+		<gx:mid>/g/1tncrb22</gx:mid>
+		<gx:fid>0x3a5260dd170549a3:0x942c1d2c3b1da48e</gx:fid>
+		<LookAt>
+			<longitude>80.167153</longitude>
+			<latitude>13.022835</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.194502557415</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.167153,13.022835,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04B9E176621171FDE97A">
+		<name>Billroth Hospital</name>
+		<gx:mid>/g/1tdgyqjh</gx:mid>
+		<gx:fid>0x3a5267c9b1028f3b:0x39258fb36963b831</gx:fid>
+		<LookAt>
+			<longitude>80.2566447</longitude>
+			<latitude>13.0273787</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.173471588045</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2566447,13.0273787,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D6B7FF64D1171FE0855">
+		<name>Kauvery Hospital Chennai</name>
+		<gx:mid>/g/1tfgh7f_</gx:mid>
+		<gx:fid>0x3a52662d4607a8d3:0x7feb3895300b7126</gx:fid>
+		<LookAt>
+			<longitude>80.2572725</longitude>
+			<latitude>13.0384866</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.122027548019</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2572725,13.0384866,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00256307C31171FE27E5">
+		<name>St.Isabel&apos;s Hospital</name>
+		<gx:mid>/g/1tftzzk_</gx:mid>
+		<gx:fid>0x3a526633a11044db:0x718348e98ed78e71</gx:fid>
+		<LookAt>
+			<longitude>80.2618969</longitude>
+			<latitude>13.0388774</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.120216859399</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2618969,13.0388774,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A6EFFADAE1171FE408F">
+		<name>BSS HOSPITAL</name>
+		<gx:mid>/g/1tpc6d2s</gx:mid>
+		<gx:fid>0x3a5267d01e8ef557:0x9336b4abd98d8f17</gx:fid>
+		<LookAt>
+			<longitude>80.26551239999999</longitude>
+			<latitude>13.0260028</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.17984083115</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.26551239999999,13.0260028,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BAB9A3B8E1171FE7704">
+		<name>Apollo Spectra Hospitals</name>
+		<gx:mid>/g/12lknfxll</gx:mid>
+		<gx:fid>0x3a5267dc209067c3:0xa6af25e7e7df7898</gx:fid>
+		<LookAt>
+			<longitude>80.27110460000002</longitude>
+			<latitude>13.017774</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.217919509031</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.27110460000002,13.017774,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C24B3B2C91171FF79A3">
+		<name>Global Hospitals</name>
+		<gx:mid>/g/11flvw0_lk</gx:mid>
+		<gx:fid>0x3a525c1bb823a345:0x156c78bd6ee10d85</gx:fid>
+		<LookAt>
+			<longitude>80.19514789999999</longitude>
+			<latitude>12.9126821</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.702174445241</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.19514789999999,12.9126821,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08E5E3333F1171FFF6FB">
+		<name>Kanaga Hospital</name>
+		<gx:mid>/g/1hf6jqbbf</gx:mid>
+		<gx:fid>0x3a526040445e4213:0xea68a4c932218272</gx:fid>
+		<LookAt>
+			<longitude>80.12234269999999</longitude>
+			<latitude>13.0098614</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.254512923204</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.12234269999999,13.0098614,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EBAE35C8111720050FB">
+		<name>Meenakshi General Hospital</name>
+		<gx:mid>/g/1pp2wxw58</gx:mid>
+		<gx:fid>0x3a52613e4a40055b:0xd9f304d1aaa1d27c</gx:fid>
+		<LookAt>
+			<longitude>80.1665754</longitude>
+			<latitude>13.0522809</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.058082677531</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1665754,13.0522809,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03B85ED4C81172017938">
+		<name>UPHC.Mettukuppam, Government hospital</name>
+		<gx:mid>/g/11gf6284ly</gx:mid>
+		<gx:fid>0x3a52613574316e3b:0x7235809bf32847cc</gx:fid>
+		<LookAt>
+			<longitude>80.1844864</longitude>
+			<latitude>13.0551475</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.044786019352</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1844864,13.0551475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="005C75717C1172033C58">
+		<name>K.M.Hospitals</name>
+		<gx:mid>/g/1tfrks14</gx:mid>
+		<gx:fid>0x3a5265d98d386cf7:0x918ea511e6c15a17</gx:fid>
+		<LookAt>
+			<longitude>80.24204399999999</longitude>
+			<latitude>13.0884401</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.890151275202</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.24204399999999,13.0884401,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0226DE63A51172037DE1">
+		<name>Appasamy Hospitals</name>
+		<gx:mid>/g/1vzn3_02</gx:mid>
+		<gx:fid>0x3a52669ea6043545:0x83de2d7d12d3ecb8</gx:fid>
+		<LookAt>
+			<longitude>80.2149781</longitude>
+			<latitude>13.0751028</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.952145210631</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2149781,13.0751028,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08ADE2082B117206646C">
+		<name>PARVEEN MULTI SPECIALITY HOSPITALS PVT. LTD.</name>
+		<gx:mid>/g/1q67s1b35</gx:mid>
+		<gx:fid>0x3a52642c6dacabed:0x4084230522993bfe</gx:fid>
+		<LookAt>
+			<longitude>80.228146</longitude>
+			<latitude>13.087122</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.89628075209</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.228146,13.087122,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BD5738EED1172068E36">
+		<name>Murugan Hospitals</name>
+		<gx:mid>/g/11clwn636_</gx:mid>
+		<gx:fid>0x3a5265d5aab8124d:0x223a781303d54e7a</gx:fid>
+		<LookAt>
+			<longitude>80.2342953</longitude>
+			<latitude>13.0834389</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.913404859706</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2342953,13.0834389,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08C71D052111720710F5">
+		<name>R G Clinic - Dr Revathi Gunasekaran</name>
+		<gx:mid>/g/11gnq0mk4p</gx:mid>
+		<gx:fid>0x3a5265d9072ad27f:0xe3f602df7ec32bb9</gx:fid>
+		<LookAt>
+			<longitude>80.2279101</longitude>
+			<latitude>13.0918609</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.874240948192</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2279101,13.0918609,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EBABBA879117207CD37">
+		<name>K K Hospital</name>
+		<gx:mid>/g/11ckv6yhpv</gx:mid>
+		<gx:fid>0x3a526f802707bbe7:0x68cdbd8679480da0</gx:fid>
+		<LookAt>
+			<longitude>80.278662</longitude>
+			<latitude>13.1281725</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.70510476078</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.278662,13.1281725,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01C8E9EE8D1172092FD8">
+		<name>Apollo Hospitals Tondiarpet</name>
+		<gx:mid>/g/124t0d_xy</gx:mid>
+		<gx:fid>0x3a526f7bd218987d:0x77b36ee1ac8d3bb9</gx:fid>
+		<LookAt>
+			<longitude>80.2905464</longitude>
+			<latitude>13.1289361</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.701543095412</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2905464,13.1289361,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04120B8F7A11720954BD">
+		<name>KVT Speciality Hospital</name>
+		<gx:mid>/g/124t1h79m</gx:mid>
+		<gx:fid>0x3a5265a0abba69dd:0x676f64da5ff700e9</gx:fid>
+		<LookAt>
+			<longitude>80.2490062</longitude>
+			<latitude>13.1267051</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.711948601091</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2490062,13.1267051,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F3210CE111172099357">
+		<name>Apollo City Centre Hospital Sowcarpet</name>
+		<gx:mid>/g/1wrghlrh</gx:mid>
+		<gx:fid>0x3a526f56faaaaaab:0x7f6b00bf787831af</gx:fid>
+		<LookAt>
+			<longitude>80.27991059999999</longitude>
+			<latitude>13.0983622</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.84399191606</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.27991059999999,13.0983622,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AFDF497ED11720B35C1">
+		<name>Sri Ramachandra Hospital - G Block</name>
+		<gx:mid>/m/011c6vts</gx:mid>
+		<gx:fid>0x3a526100b5b71cb5:0x95683e825101a7b1</gx:fid>
+		<LookAt>
+			<longitude>80.1446072</longitude>
+			<latitude>13.0375525</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.1263552879</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1446072,13.0375525,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04DFA8947711720BFFD3">
+		<name>Bharath Hospital</name>
+		<gx:mid>/g/1tsr1m8q</gx:mid>
+		<gx:fid>0x3a525dfbe2c4930d:0xdb72017f930823d7</gx:fid>
+		<LookAt>
+			<longitude>80.1937853</longitude>
+			<latitude>12.982337</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.381636638123</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1937853,12.982337,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03422B1AEE11720C7850">
+		<name>Neolife Children’s Hospital</name>
+		<gx:mid>/g/1tf9r7f_</gx:mid>
+		<gx:fid>0x3a525de1eabe0845:0x6e5e3100a3c840d6</gx:fid>
+		<LookAt>
+			<longitude>80.1888084</longitude>
+			<latitude>12.969492</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.440872782998</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1888084,12.969492,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0780CCCBF911720CD9BC">
+		<name>Velachery KS Hospital</name>
+		<gx:mid>/g/11b6v9n5fs</gx:mid>
+		<gx:fid>0x3a525d929d578281:0xb3b47471daeca39c</gx:fid>
+		<LookAt>
+			<longitude>80.21147239999999</longitude>
+			<latitude>12.9763747</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.409139534364</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.21147239999999,12.9763747,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0182608F3E11720D0672">
+		<name>Sri Balaji Hospital</name>
+		<gx:mid>/g/1thvr3c6</gx:mid>
+		<gx:fid>0x3a5267725e5afa91:0x1d9fb1831f8d6700</gx:fid>
+		<LookAt>
+			<longitude>80.20601599999999</longitude>
+			<latitude>13.0073648</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.266054466184</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.20601599999999,13.0073648,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BE10FF48211720D6FAD">
+		<name>TRIMED private hospital</name>
+		<gx:mid>/g/11c3kmk4dg</gx:mid>
+		<gx:fid>0x3a5267727f9b237d:0xcbe5430f6a3c119c</gx:fid>
+		<LookAt>
+			<longitude>80.2209482</longitude>
+			<latitude>13.0090446</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.258289148381</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2209482,13.0090446,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0141B9115C11720DF8AD">
+		<name>Raj Bhavan Dispensary - government hospital</name>
+		<gx:mid>/g/11bbt5hz4z</gx:mid>
+		<gx:fid>0x3a52677395bb111f:0x53e49770ca76bb69</gx:fid>
+		<LookAt>
+			<longitude>80.2252766</longitude>
+			<latitude>13.0080479</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.262896774129</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2252766,13.0080479,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CA7B3E50911720E5D79">
+		<name>DR.KAMAKSHI MEMORIAL HOSPITALS</name>
+		<gx:mid>/g/11h4gzp0p3</gx:mid>
+		<gx:fid>0x3a525dc9fa00ce73:0xa1d64b4ac0d7b08b</gx:fid>
+		<LookAt>
+			<longitude>80.20904170000001</longitude>
+			<latitude>12.9490398</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.535072756704</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.20904170000001,12.9490398,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07781FC85411720F31FC">
+		<name>Ayanavaram 24-hrs. Hospital</name>
+		<gx:mid>/g/1vxvg8sk</gx:mid>
+		<gx:fid>0x3a5265cb689177f9:0xb0321adac020e903</gx:fid>
+		<LookAt>
+			<longitude>80.2337543</longitude>
+			<latitude>13.0986165</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.842808421028</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2337543,13.0986165,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D6345A25011720F7980">
+		<name>Sri Ganeshans Hospital</name>
+		<gx:mid>/g/1tvm15mb</gx:mid>
+		<gx:fid>0x3a5264366aaaaaab:0xd93add332975f3e8</gx:fid>
+		<LookAt>
+			<longitude>80.2235007</longitude>
+			<latitude>13.0960532</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.854736824824</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2235007,13.0960532,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02FC4CCF9B11720F9690">
+		<name>ICF Hospital</name>
+		<gx:mid>/g/1tdfrkn9</gx:mid>
+		<gx:fid>0x3a52643eded1dad1:0x40c1063b3028d38a</gx:fid>
+		<LookAt>
+			<longitude>80.21370309999999</longitude>
+			<latitude>13.0999712</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.836503362546</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.21370309999999,13.0999712,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08811D18BB11720FBA4D">
+		<name>Cauvery Trust Hospital</name>
+		<gx:mid>/g/1tdb2pvy</gx:mid>
+		<gx:fid>0x3a52643ff5767d87:0xbf149be59218ed0e</gx:fid>
+		<LookAt>
+			<longitude>80.21134889999999</longitude>
+			<latitude>13.1026446</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.824058938874</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.21134889999999,13.1026446,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0497CFC3DC1172102228">
+		<name>ESI HOSPITAL</name>
+		<gx:mid>/g/11csq9zwk7</gx:mid>
+		<gx:fid>0x3a5265cfb034f8df:0xc98173c56725597f</gx:fid>
+		<LookAt>
+			<longitude>80.2393185</longitude>
+			<latitude>13.0948479</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.860344945551</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2393185,13.0948479,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AB688894511721042E4">
+		<name>New Ruthraan Hospital</name>
+		<gx:mid>/g/1pp2wyjdj</gx:mid>
+		<gx:fid>0x3a52643448afb4cd:0xf63ba8750f2e1b51</gx:fid>
+		<LookAt>
+			<longitude>80.22844099999999</longitude>
+			<latitude>13.099925</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.836718397486</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.22844099999999,13.099925,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0858EE7BA01172107266">
+		<name>Sakthi Hospital</name>
+		<gx:mid>/g/1q4knlfz3</gx:mid>
+		<gx:fid>0x3a526434c8574f61:0x772d0ba065036f92</gx:fid>
+		<LookAt>
+			<longitude>80.2315687</longitude>
+			<latitude>13.0993402</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.839440247948</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2315687,13.0993402,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02BA3F18B4117210D9CF">
+		<name>New Ruthraan Hospital</name>
+		<gx:mid>/g/1pp2wyjdj</gx:mid>
+		<gx:fid>0x3a52643448afb4cd:0xf63ba8750f2e1b51</gx:fid>
+		<LookAt>
+			<longitude>80.22844099999999</longitude>
+			<latitude>13.099925</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.836718397486</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.22844099999999,13.099925,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="009BB835721172110804">
+		<name>Care &amp; Cure Women’s Speciality Hospital</name>
+		<gx:mid>/g/1q67cj_f4</gx:mid>
+		<gx:fid>0x3a526434f10d1259:0xabca1a8bf2dcef19</gx:fid>
+		<LookAt>
+			<longitude>80.2292588</longitude>
+			<latitude>13.0997693</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.837443087738</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2292588,13.0997693,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07FE909DDB117211D53A">
+		<name>Harvey Heart Hospitals Limited</name>
+		<gx:mid>/g/1wbrw63v</gx:mid>
+		<gx:fid>0x3a5267b5caee0ecd:0xaa0c191a1fcbb5ac</gx:fid>
+		<LookAt>
+			<longitude>80.2558614</longitude>
+			<latitude>13.0373208</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.127428720908</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2558614,13.0373208,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EA332BC7A117211DE46">
+		<name>Harvey Heart Hospitals Limited</name>
+		<gx:mid>/g/1wbrw63v</gx:mid>
+		<gx:fid>0x3a5267b5caee0ecd:0xaa0c191a1fcbb5ac</gx:fid>
+		<LookAt>
+			<longitude>80.2558614</longitude>
+			<latitude>13.0373208</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.127428720908</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2558614,13.0373208,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02F7D0AFF6117212883C">
+		<name>Trinity Hospital</name>
+		<gx:mid>/m/04g3c2z</gx:mid>
+		<gx:fid>0x3a526634f98baec9:0xf5f297aeb74ff280</gx:fid>
+		<LookAt>
+			<longitude>80.2578199</longitude>
+			<latitude>13.0385978</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.121512331855</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2578199,13.0385978,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="083DE958AB1172128EFF">
+		<name>Trinity Hospital</name>
+		<gx:mid>/m/04g3c2z</gx:mid>
+		<gx:fid>0x3a526634f98baec9:0xf5f297aeb74ff280</gx:fid>
+		<LookAt>
+			<longitude>80.2578199</longitude>
+			<latitude>13.0385978</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.121512331855</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2578199,13.0385978,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="080D975268117214DEC5">
+		<name>V Cure Hospital</name>
+		<gx:mid>/g/1ydpvc0l7</gx:mid>
+		<gx:fid>0x3a525c3b1cab5bad:0x6266d0f2edf733c8</gx:fid>
+		<LookAt>
+			<longitude>80.19965019999999</longitude>
+			<latitude>12.9280447</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.631622938727</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.19965019999999,12.9280447,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="051F8C26901172165C94">
+		<name>Appasamy Krishna Hospital &amp; Medical Research Centre</name>
+		<gx:mid>/g/1tj7cgr1</gx:mid>
+		<gx:fid>0x3a52666a3b499e4f:0xcc8abad4c8dbc688</gx:fid>
+		<LookAt>
+			<longitude>80.229343</longitude>
+			<latitude>12.9980091</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>11325.68787844311</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.229343,12.9980091,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01740EF081117216A2DD">
+		<name>G.R. Hospital and Fertility Centre</name>
+		<gx:mid>/g/1hf3695g9</gx:mid>
+		<gx:fid>0x3a52675c330d5eb3:0x8b750ad978d8174d</gx:fid>
+		<LookAt>
+			<longitude>80.2068802</longitude>
+			<latitude>12.9952704</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.321935249008</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2068802,12.9952704,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07AE8C707C117216D898">
+		<name>Meena Nursing Home</name>
+		<gx:mid>/g/1hm5nw32d</gx:mid>
+		<gx:fid>0x3a5267410a3322d1:0x5b3967c64c11564e</gx:fid>
+		<LookAt>
+			<longitude>80.20686329999999</longitude>
+			<latitude>13.0074194</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.265802078629</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.20686329999999,13.0074194,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DF59192E3117217440F">
+		<name>Tibetian medical clinic</name>
+		<gx:mid>/g/11cs698r9g</gx:mid>
+		<gx:fid>0x3a52670bae4eff89:0x49fdb1d87c094f16</gx:fid>
+		<LookAt>
+			<longitude>80.228736</longitude>
+			<latitude>13.0156864</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.227576135772</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.228736,13.0156864,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="028419B827117217CA94">
+		<name>Apollo Health And Lifestyle Limited</name>
+		<gx:mid>/g/11b7grnc1t</gx:mid>
+		<gx:fid>0x3a52679962777657:0xf149d73952b57579</gx:fid>
+		<LookAt>
+			<longitude>80.2395775</longitude>
+			<latitude>13.0069465</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.267988016535</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2395775,13.0069465,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07540EDC0C1172184A86">
+		<name>Poornima 24 Hours Hospital</name>
+		<gx:mid>/g/1v6p78r2</gx:mid>
+		<gx:fid>0x3a526710473052fb:0x646c98eefc46600b</gx:fid>
+		<LookAt>
+			<longitude>80.21941269999999</longitude>
+			<latitude>13.0215021</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.200670665869</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.21941269999999,13.0215021,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AB07F0E3C117218BB78">
+		<name>Military Hospital</name>
+		<gx:mid>/g/1tdl9444</gx:mid>
+		<gx:fid>0x3a526778ffffffff:0xd9b45555329183d1</gx:fid>
+		<LookAt>
+			<longitude>80.19751339999999</longitude>
+			<latitude>13.0190817</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.211869704877</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.19751339999999,13.0190817,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C5159539F117219442C">
+		<name>Government Hospital</name>
+		<gx:mid>/g/11cs5xzsq8</gx:mid>
+		<gx:fid>0x3a5267443c606b0d:0x54c75ed1577de7a</gx:fid>
+		<LookAt>
+			<longitude>80.20258299999999</longitude>
+			<latitude>13.004641</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.278643877792</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.20258299999999,13.004641,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06D77A4F9A1172199B0B">
+		<name>R.B.C. 24 Hour Hospital</name>
+		<gx:mid>/g/1vcjkp3q</gx:mid>
+		<gx:fid>0x3a52671127058b65:0x6119118bf503fffb</gx:fid>
+		<LookAt>
+			<longitude>80.21632579999999</longitude>
+			<latitude>13.0201451</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1026.206949668913</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.21632579999999,13.0201451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F56E4A4B511721BB66D">
+		<name>SKS Hospital</name>
+		<gx:mid>/g/1w3450yk</gx:mid>
+		<gx:fid>0x3a526407f9d7a3f9:0x693265c490cc27ee</gx:fid>
+		<LookAt>
+			<longitude>80.18771749999999</longitude>
+			<latitude>13.0896865</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.88435466866</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.18771749999999,13.0896865,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="013FCF7F6411721BF1E6">
+		<name>I.K. Hospitals</name>
+		<gx:mid>/g/1trtsr4z</gx:mid>
+		<gx:fid>0x3a52642586daf6c7:0xffd9e7a692958a</gx:fid>
+		<LookAt>
+			<longitude>80.199162</longitude>
+			<latitude>13.086973</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.896973599622</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.199162,13.086973,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0868E28C38117221D102">
+		<name>The Madras Medical Mission Hospital</name>
+		<gx:mid>/m/05z_6b2</gx:mid>
+		<gx:fid>0x3a5265864b155555:0xb24bc1d5860e3f08</gx:fid>
+		<LookAt>
+			<longitude>80.18737349999999</longitude>
+			<latitude>13.0861477</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.90081109218</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.18737349999999,13.0861477,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D0B46F1ED1172229B56">
+		<name>Sri Sarveshwara Hospitals</name>
+		<gx:mid>/g/1tqt82dd</gx:mid>
+		<gx:fid>0x3a52640b1c8bbcf1:0x19050b46fe3c4f55</gx:fid>
+		<LookAt>
+			<longitude>80.190572</longitude>
+			<latitude>13.099919</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.836746324048</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.190572,13.099919,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02F55206A311722396CA">
+		<name>Life Care DKJ Hospital</name>
+		<gx:mid>/g/1pxwnfx78</gx:mid>
+		<gx:fid>0x3a52646acc282687:0xc4b13bfb737c47a</gx:fid>
+		<LookAt>
+			<longitude>80.20794769999999</longitude>
+			<latitude>13.1029219</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.822767992458</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.20794769999999,13.1029219,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07923016B6117223F9D9">
+		<name>Government Peripheral Hospital, Anna Nagar</name>
+		<gx:mid>/g/1tznksh6</gx:mid>
+		<gx:fid>0x3a52643a43ea9003:0xcdb7c31a1c02272a</gx:fid>
+		<LookAt>
+			<longitude>80.2193446</longitude>
+			<latitude>13.0955415</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.857117766662</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2193446,13.0955415,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="023BB532FC117224A13A">
+		<name>Employees State Insurance Dispensary</name>
+		<gx:mid>/g/1xn_ltv2</gx:mid>
+		<gx:fid>0x3a5265d45a12674b:0x72f5a1ef1885a8b0</gx:fid>
+		<LookAt>
+			<longitude>80.2353117</longitude>
+			<latitude>13.0845022</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.908461661585</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.2353117,13.0845022,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="031CC19ADE117225ACB3">
+		<name>Be Well Hospitals</name>
+		<gx:mid>/g/11c5h2y7jt</gx:mid>
+		<gx:fid>0x3a5266a8026b00bf:0xf2bbfee2b66743b3</gx:fid>
+		<LookAt>
+			<longitude>80.1983285</longitude>
+			<latitude>13.0793673</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1025.932329799834</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F6A7DBA471C44F9ED20</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>80.1983285,13.0793673,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
